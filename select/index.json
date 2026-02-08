@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ヒーロー",
+  "base_artist": "FUNKY MONKEY BABYS",
+  "createdAt": "2026-02-08T07:34:21.068623Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ザ・ヒーロー",
+      "artist": "Battle Beast",
+      "has_synced": false,
+      "path": "select/01_ザ・ヒーロー_Battle_Beast.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hero [ヒーロー]",
+      "artist": "supercell",
+      "has_synced": true,
+      "path": "select/02_Hero_[ヒーロー]_supercell.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ヒーロー",
+      "artist": "supercell",
+      "has_synced": false,
+      "path": "select/03_ヒーロー_supercell.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トロピカル・ヒーロー",
+      "artist": "Seiko Matsuda",
+      "has_synced": true,
+      "path": "select/04_トロピカル・ヒーロー_Seiko_Matsuda.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー(Eat You Up)",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/05_ダンシング・ヒーロー(Eat_You_Up)_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SUPER HERO (スーパー・ヒーロー〈ルパン三世のテーマ〉) / Tommy Snyder",
+      "artist": "You & The Explosion Band",
+      "has_synced": false,
+      "path": "select/06_SUPER_HERO_(スーパー・ヒーロー〈ルパン三世のテーマ〉)___Tommy_Snyder_You_&_The_Explosion_Band.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ダーティー・ヒーロー",
+      "artist": "ヘルシー・ウィングス・オーケストラ",
+      "has_synced": false,
+      "path": "select/07_ダーティー・ヒーロー_ヘルシー・ウィングス・オーケストラ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ヒーロー -Holding out for a hero- (Dance ver.)",
+      "artist": "麻倉未稀",
+      "has_synced": true,
+      "path": "select/08_ヒーロー_-Holding_out_for_a_hero-_(Dance_ver.)_麻倉未稀.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー",
+      "artist": "荻野目洋子",
+      "has_synced": true,
+      "path": "select/09_ダンシング・ヒーロー_荻野目洋子.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "トロピカル・ヒーロー",
+      "artist": "松田聖子",
+      "has_synced": true,
+      "path": "select/10_トロピカル・ヒーロー_松田聖子.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー(Eat You Up) - Club Mix",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/11_ダンシング・ヒーロー(Eat_You_Up)_-_Club_Mix_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ヒーロー",
+      "artist": "nano.RIPE",
+      "has_synced": false,
+      "path": "select/12_ヒーロー_nano.RIPE.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー(Eat You Up) - Dear Pop Singer Version",
+      "artist": "Yoko Oginome",
+      "has_synced": true,
+      "path": "select/13_ダンシング・ヒーロー(Eat_You_Up)_-_Dear_Pop_Singer_Version_Yoko_Oginome.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ダンシング・ヒーロー (Eat You Up) (オリジナル・カラオケ)",
+      "artist": "荻野目洋子",
+      "has_synced": true,
+      "path": "select/14_ダンシング・ヒーロー_(Eat_You_Up)_(オリジナル・カラオケ)_荻野目洋子.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Am A Hero (アイ アム ア ヒーロー)",
+      "artist": "Stereopony",
+      "has_synced": true,
+      "path": "select/15_I_Am_A_Hero_(アイ_アム_ア_ヒーロー)_Stereopony.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ヒーロー",
+      "artist": "FUNKY MONKEY BABYS",
+      "has_synced": false,
+      "path": "select/pl_01_ヒーロー_FUNKY_MONKEY_BABYS.txt"
+    }
+  ]
+}
